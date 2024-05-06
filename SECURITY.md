@@ -18,7 +18,7 @@ Make sure to include as much information as possible, with the detailed steps to
 the versions that are affected, the expected results and actual results, and any other information that
 might help us react faster and more efficiently.
 
-We tend to prefer _text-based descriptions_ accompanied with a proof-of-concept script/exploit, rather
+We tend to prefer _text-based descriptions_ accompanied by a proof-of-concept script/exploit, rather
 than screenshots and videos.
 
 Our [Responsible Disclosure](https://www.odoo.com/security-report) page gives an overview of the
@@ -37,4 +37,4 @@ the Odoo Cloud, and we ultimately have to reject them. To avoid a disappointing 
 contacting us, please try to put together a proof-of-concept attack and take a critical look at
 what's really at risk.
 If the proposed attack scenario turns out unrealistic, your report will probably be rejected.
-Also be sure to review our list of [non-qualifying issues](https://www.odoo.com/security-report#what).
+Also, be sure to review our list of [non-qualifying issues](https://www.odoo.com/security-report#what).
